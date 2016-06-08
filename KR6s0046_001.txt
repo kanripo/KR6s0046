@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:08:03.642492
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:58
 #+TITLE: 禮懺文
 #+PROPERTY: CBETA_ID T85n2854
 #+PROPERTY: ID KR6s0046
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2854
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0046_T_000-1303b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0046_T_001-1303b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2854¶
-
- 禮懺文一本¶
+No. 2854¶
+禮懺文一本¶
 ¶
 
 一切恭敬敬禮常住三寶　是□眾□□□□¶
